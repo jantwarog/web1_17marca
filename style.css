@@ -2,5 +2,21 @@ body{
     background-color: dodgerblue;
 }
 p {
-    font-size: 25px; color:white; background-color: orange; text-align: center;
+    font-family:lato; font-size: 25px; color:white; background-color: orange; text-align: center;
+}
+ul{
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-family: lato;
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+li{
+    font-family: lato;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
